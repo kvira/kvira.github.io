@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Kartik Vira"
 title_separator          : "-"
@@ -28,7 +28,6 @@ author:
   bio              : "PhD Candidate, Department of Economics, MIT"
   location         : "Cambridge, MA"
   employer         : "Massachusetts Institute of Technology"
-  uri              : "https://economics.mit.edu/people/phd-students/kartikeya-vira"
   email            : "kvira@mit.edu" 
 
   # Academic websites
@@ -223,9 +222,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
