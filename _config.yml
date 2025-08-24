@@ -22,12 +22,12 @@ repository               : "kvira/kvira/github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DSC08515.JPG"
   name             : "Kartik Vira"
   pronouns         : "he / him"  
   bio              : "PhD Candidate, Department of Economics, MIT"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "MIT"
   email            : "kvira@mit.edu" 
 
   # Academic websites
